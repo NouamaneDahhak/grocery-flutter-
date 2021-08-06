@@ -1,0 +1,13 @@
+IMPORTANT:
+If you have an old version of the code, we highly recommend to update to this version.
+
+Please read the release notes:
+https://grocery.slownett.com/blog/v1.5-release/
+
+
+Documentation URL:
+https://grocery.slownett.com/docs/overview/introduction/
+
+For more information:
+Email: omar@slownett.com
+Discord: https://bit.ly/3daPqU0
